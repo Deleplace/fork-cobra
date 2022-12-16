@@ -1,4 +1,4 @@
-![cobra logo](https://storage.googleapis.com/deleplace-sandbox/2022/12/16/cobra_shadow.png)
+![cobra logo](https://storage.googleapis.com/deleplace-sandbox/2022/12/16/cobra_shadow2.png)
 
 Cobra is a library for creating powerful modern CLI applications.
 
